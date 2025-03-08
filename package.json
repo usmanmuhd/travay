@@ -23,7 +23,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.1",
     "@johmun/vue-tags-input": "^1.5.5",
     "@sendgrid/mail": "~6.3.1",
-    "axios": "^0.18.0",
+    "axios": "^1.8.2",
     "bignumber.js": "^7.2.1",
     "bluebird": "~3.5.1",
     "dotenv": "~6.0.0",
